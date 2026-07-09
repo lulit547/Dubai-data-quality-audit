@@ -1,0 +1,34 @@
+{
+  "duplicate_rows": {
+    "before": 150,
+    "after": 0
+  },
+  "duplicate_order_ids": {
+    "before": 210,
+    "after": 0
+  },
+  "invalid_emails": {
+    "before": 367,
+    "after": 354
+  },
+  "ship_before_order": {
+    "before": 314,
+    "after": 303
+  },
+  "price_outliers": {
+    "before": 41,
+    "after": 40
+  },
+  "city_distinct_values": {
+    "before": 18,
+    "after": 6
+  },
+  "payment_distinct_values": {
+    "before": 7,
+    "after": 4
+  },
+  "total_rows": {
+    "before": 5210,
+    "after": 5000
+  }
+}

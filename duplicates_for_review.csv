@@ -1,0 +1,61 @@
+order_id,customer_id,customer_name,email,phone,city,order_date,ship_date,category,unit_price_aed,quantity,payment_method
+ORD004151,CUST00562,Salem Khan,salem.khan2@hotmail.com,+971 55 5462842,Dubai,2026-06-30,2026-07-05,Home & Kitchen,62.78,2,credit card
+ORD003988,CUST00090,Salem Rahman,,+971 50 3845383,Ras al Khaimah,2026-06-09,2026-06-12,Sports,38.54,4,credit card
+ORD003043,CUST00824,Reem Sheikh,reemsheikhgmail.com,+971 50 3199558,Sharjah,01/03/2026,2026-03-08,Toys,37.09,2,credit card
+ORD003708,CUST00265,Ahmed Patel,ahmed.patel75@gmail.com,0526462405,ajman,2026-05-18,2026-05-19,Home & Kitchen,257.8,5,Cash on Delivery
+ORD001424,CUST01570,Mariam Al Rashid,mariam.alrashid60@gmail.com,+971 50 2759261,Ras al Khaimah,2026-02-02,2026-02-04,Books,28.81,2,COD
+ORD004608,CUST00583,Amina Rahman,,+971 55 6271102,Fujairah,03/02/2026,2026-02-05,Toys,108.77,2,Cash on Delivery
+ORD004159,CUST00672,Omar Khan,omar.khan7@outlook.com,+971 58 5105916,Ras Al Khaimah,2025-09-06,2025-09-16,Sports,,4,credit card
+ORD000684,CUST01284,Amina Al Maktoum,amina.almaktoum90@gmail.com,+971 52 6492500,Abu Dhabi,2025-08-17,,Fashion,108.79,5,Credit Card
+ORD004251,CUST01123,Huda Al Suwaidi,huda.alsuwaidi75@hotmail.com,+971 52 6072545,Ras al Khaimah,2026-05-13,2026-05-19,Books,195.46,4,COD
+ORD003666,CUST01314,Reem Malik,reem.malik62@yahoo.com,+971 50 7414223,Fujairah,2026-04-27,2026-04-30,Books,,2,Cash on Delivery
+ORD001620,CUST00560,Salem Ahmed,salem.ahmed87@yahoo.com,+971 56 6831981,Ajman,2026-05-19,2026-05-28,Books,210.28,2,credit card
+ORD000662,CUST01243,Zainab Al Suwaidi,zainab.alsuwaidi78@outlook.com,+971 51 2970875,Ras Al Khaimah,2026-01-27,,Fashion,38.6,1,credit card
+ORD004036,CUST00275,Ahmed Hassan,ahmed.hassan93@hotmail.com,+971 53 7670490,Abu Dhabi,2025-03-29,2025-04-05,Toys,,2,Credit Card
+ORD001072,CUST01183,Reem Patel,reem.patel50@gmail.com,+971 53 1681666,Fujeirah,2025-12-11,2025-12-13,Toys,107.45,3,Apple Pay
+ORD004453,CUST01275,Mohammed Al Falasi,mohammed.alfalasi82@outlook.com,+971 51 4930343,Dubai,2025-05-10,2025-05-14,Toys,210.54,2,COD
+ORD000605,CUST00002,Sara Al Ali,sara.alali23@yahoo.com,0526783305,DUBAI,2025-07-09,2025-07-13,Toys,100.83,3,Debit Card
+ORD000647,CUST01737,Mohammed  Rahman,mohammed.rahman90@yahoo.com,+971 52 5177495,RAK,2026-02-04,2026-02-05,Sports,4.5,3,Credit Card
+ORD003471,CUST00222,Amina Malik,amina.malik94@yahoo.com,+971 57 2434696,Fujairah,2026-03-19,2026-03-21,Fashion,6086.0,2,Apple Pay
+ORD002177,CUST00028,Yousef Hassan,yousef.hassan57@hotmail.com,+971 56 6753656,Ajman,2026-01-31,2026-02-10,Books,13.36,3,CC
+ORD002668,CUST01216,Tariq Nasser,,+971 51 1451417,Dubai,2025-03-26,2025-04-05,Toys,19.44,2,credit card
+ORD003480,CUST01528,Zainab Hassan,zainab.hassan78@outlook.com,+971 59 1468658,dubai,2026-04-18,2026-04-26,Home & Kitchen,266.76,2,Apple Pay
+ORD004841,CUST01333,Ali Patel,ali.patel50@gmail.com,+971 55 2182333,Abu dhabi,2025-05-23,2025-05-26,Toys,29.77,2,Apple Pay
+ORD004714,CUST00348,Fatima Al Amiri,,+971 54 2447592,Sharjah,2026-06-14,2026-06-17,Beauty,95.29,5,Debit Card
+ORD003521,CUST01280,Layla Al Amiri,layla.alamiri75@gmail.com,+971 55 4221433,Abu Dhabi,08/06/2025,2025-06-10,Fashion,110.25,2,Cash on Delivery
+ORD000323,CUST00374,Reem Hassan,reem.hassan21@yahoo.com,+971 50 6317433,dubai,2025-11-21,2025-11-29,Sports,29.42,3,credit card
+ORD000771,CUST01243,Aisha Al Ali,aisha.alali5@hotmail.com,+971 56 8012366,Sharjah,2025-06-16,2025-06-24,Groceries,135.33,2,Cash on Delivery
+ORD003891,CUST00070,Hassan Al Maktoum,hassan.almaktoum25@outlook.com,+971 57 5369283,Sharjah,2026-02-24,2026-03-03,Home & Kitchen,133.33,3,Credit Card
+ORD001105,CUST00172,Huda Al Rashid,huda.alrashid77@hotmail.com,+971 57 1969270,Ajman,2025-09-21,2025-09-27,Beauty,201.98,3,Apple Pay
+ORD004741,CUST01669,Fatima Khan,fatima.khan43@yahoo.com,+971 57 9367523,Fujairah,2026-04-30,2026-05-09,Toys,112.04,6,Credit Card
+ORD002200,CUST01673,Tariq Ibrahim,tariq.ibrahim8@outlook.com,+971 56 4242718,Sharjah,2025-05-04,2025-05-10,Beauty,108.62,1,CC
+ORD000342,CUST00602,Hassan Ahmed,hassan.ahmed65@outlook.com,+971 57 6277427,AbuDhabi,19/01/2025,2025-01-20,Toys,85.09,2,Apple Pay
+ORD001928,CUST00831,Ahmed Ibrahim,ahmed.ibrahim63@hotmail.com,+971 59 5093451,Abu Dhabi,2026-02-22,2026-02-23,Groceries,50.1,5,Debit Card
+ORD001670,CUST00093,Tariq Nasser,tariq.nasser28@yahoo.com,+971 50 5862670,Dubai,2025-07-10,2025-07-20,Groceries,115.21,1,Apple Pay
+ORD002910,CUST01118,Mohammed Al Falasi,mohammed.alfalasi14@gmail.com,+971 50 2719287,RAK,2025-06-20,2025-06-23,Groceries,234.43,6,Debit Card
+ORD000947,CUST00096,Sara Rahman,sara.rahman54@yahoo.com,+971 54 8750129,Abu Dhabi,2025-01-09,2025-01-12,Books,14.5,1,Credit Card
+ORD003648,CUST01111,Reem Al Maktoum,reem.almaktoum41@yahoo.com,+971 50 8306177,sharjah,23/05/2026,2026-06-02,Books,82.5,4,COD
+ORD001889,CUST00649,Reem Al Falasi,,+971 55 7875552,Abu dhabi,2025-02-27,2025-03-05,Toys,,1,credit card
+ORD001064,CUST01327,Ali Al Falasi,ali.alfalasi44@yahoo.com,+971 57 8960123,Ras al Khaimah,04/10/2025,2025-10-07,Electronics,11.71,2,COD
+ORD000239,CUST00912,Khalid Al Suwaidi,khalid.alsuwaidi76@yahoo.com,+971 53 2502467,Ras Al Khaimah,2026-03-22,2026-03-31,Sports,34.41,5,credit card
+ORD003683,CUST00168,Omar Rahman,omar.rahman31@gmail.com,+971 58 2885780,Ras al Khaimah,2026-03-22,2026-03-25,Books,79.73,6,CC
+ORD002945,CUST00172,Layla Al Maktoum,layla.almaktoum47@outlook.com,+971 59 2681625,Fujeirah,2026-05-15,,Sports,,3,COD
+ORD002722,CUST00174,Noor Patel,noor.patel49@outlook.com,+971 59 1771298,AbuDhabi,2025-06-23,2025-06-27,Home & Kitchen,,6,credit card
+ORD001694,CUST01421,Ahmed Ibrahim,ahmed.ibrahim63@gmail.com,0579853509,Dubai,2026-02-19,2026-02-25,Fashion,17.36,5,Cash on Delivery
+ORD002345,CUST01739,Amina Hassan,amina.hassan85@yahoo.com,+971 58 9176000,Abu Dhabi,2025-12-07,2025-12-11,Sports,7.74,4,Debit Card
+ORD000678,CUST01136,Aisha Sheikh,aisha.sheikh@gmail,+971 50 9060167,Dubai,2025-09-03,2025-09-11,Beauty,384.63,1,Cash on Delivery
+ORD001368,CUST00005,Ali Hassan,ali.hassan66@yahoo.com,+971 57 7223122,Sharjah,2026-02-24,2026-03-01,Beauty,26.23,3,Debit Card
+ORD000843,CUST01167,Khalid Rahman,khalid.rahman67@gmail.com,+971 59 1661606,Abu Dhabi,2025-03-16,2025-03-19,Groceries,21.7,6,CC
+ORD002543,CUST00245,Mariam  Hassan,mariam.hassan78@gmail.com,+971 59 7359802,Abu dhabi,2026-04-14,2026-04-22,Books,53.68,6,CC
+ORD001897,CUST01701,Amina Al Amiri,amina.alamiri89@yahoo.com,+971 53 4394574,Sharjah,2025-04-15,2025-04-25,Fashion,51.48,4,Credit Card
+ORD001903,CUST00511,Tariq Al Ali,,+971 53 7060340,Dubai,2026-03-24,2026-04-01,Home & Kitchen,215.54,2,Debit Card
+ORD003042,CUST01600,Salem Ahmed,salem.ahmed13@gmail.com,+971 50 9342975,AbuDhabi,2025-06-02,2025-06-05,Electronics,78.02,6,credit card
+ORD002041,CUST01069,Ali Rahman,ali.rahman5@hotmail.com,+971 52 2087597,Ras Al Khaimah,2025-01-25,2025-01-29,Electronics,33.29,5,Apple Pay
+ORD001511,CUST00859,Rashid Al Rashid,rashid.alrashid@gmail,+971 56 5822224,DUBAI,2026-06-28,2026-07-01,Electronics,21.29,2,credit card
+ORD004053,CUST00900,Khalid Sheikh,khalid.sheikh1@gmail.com,+971 52 5178525,Fujairah,2026-05-21,2026-05-23,Books,105.66,5,CC
+ORD004013,CUST00126,Huda Al Rashid,huda.alrashid42@hotmail.com,+971 50 1513994,Ras Al Khaimah,21/04/2025,2025-04-26,Home & Kitchen,24.9,4,COD
+ORD004466,CUST01725,Noor Malik,noor.malik8@gmail.com,0579554680,Sharjah,2025-05-23,2025-06-01,Toys,20.98,1,CC
+ORD004679,CUST01632,Huda Ibrahim,huda.ibrahim55@yahoo.com,+971 55 3429410,Abu Dhabi,2025-10-14,2025-10-19,Electronics,,3,Debit Card
+ORD004718,CUST00448,Tariq Al Maktoum,tariq.almaktoum26@outlook.com,+971 56 8958176,RAK,2025-12-07,2025-12-09,Books,,2,COD
+ORD000278,CUST00279,Fatima Sheikh,fatima.sheikh69@outlook.com,+971 58 1314043,Ajman,2026-02-28,2026-03-01,Sports,36.59,3,credit card
+ORD003337,CUST00842,Mariam Ahmed,mariam.ahmed81@outlook.com,+971 58 2037197,Fujeirah,2026-02-01,2026-02-02,Sports,17.02,6,COD

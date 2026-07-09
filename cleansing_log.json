@@ -1,0 +1,50 @@
+{
+  "steps": [
+    {
+      "step": "trim_whitespace",
+      "detail": "Trimmed whitespace on ['customer_name', 'city', 'payment_method']"
+    },
+    {
+      "step": "remove_exact_duplicates",
+      "detail": "Removed 150 exact duplicate rows"
+    },
+    {
+      "step": "flag_duplicate_order_ids",
+      "detail": "Moved 60 rows with duplicate order_id to duplicates_for_review.csv"
+    },
+    {
+      "step": "standardize_city",
+      "detail": "Normalized 1495 city values to canonical list"
+    },
+    {
+      "step": "standardize_payment_method",
+      "detail": "Normalized 2212 payment_method values"
+    },
+    {
+      "step": "standardize_dates",
+      "detail": "Parsed order_date/ship_date to ISO format. 0 order_date values could not be parsed."
+    },
+    {
+      "step": "flag_ship_before_order",
+      "detail": "Flagged 303 rows where ship_date < order_date"
+    },
+    {
+      "step": "standardize_phone",
+      "detail": "Normalized phone numbers to +971 5X XXXXXXX where possible"
+    },
+    {
+      "step": "flag_invalid_email",
+      "detail": "Flagged 354 rows with malformed email"
+    },
+    {
+      "step": "flag_price_outliers",
+      "detail": "Flagged 40 rows with negative/extreme price"
+    }
+  ],
+  "summary": {
+    "starting_rows": 5210,
+    "final_rows": 5000,
+    "duplicate_order_ids_moved_to_review": 60,
+    "rows_with_unresolved_flags": 670
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "completeness": {
+    "email": {
+      "missing_count": 303,
+      "missing_pct": 6.06
+    },
+    "ship_date": {
+      "missing_count": 267,
+      "missing_pct": 5.34
+    },
+    "unit_price_aed": {
+      "missing_count": 245,
+      "missing_pct": 4.9
+    }
+  },
+  "uniqueness": {
+    "exact_duplicate_rows": 0,
+    "duplicate_order_ids": 0,
+    "total_rows": 5000
+  },
+  "validity": {
+    "invalid_email_flagged": 354,
+    "ship_date_before_order_date_flagged": 303,
+    "price_outlier_flagged": 40
+  },
+  "consistency": {
+    "city_distinct_values": 6,
+    "payment_method_distinct_values": 4
+  }
+}

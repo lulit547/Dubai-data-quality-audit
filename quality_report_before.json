@@ -1,0 +1,69 @@
+{
+  "completeness": {
+    "order_id": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    "customer_id": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    "customer_name": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    "email": {
+      "missing_count": 316,
+      "missing_pct": 6.07
+    },
+    "phone": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    "city": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    "order_date": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    "ship_date": {
+      "missing_count": 280,
+      "missing_pct": 5.37
+    },
+    "category": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    "unit_price_aed": {
+      "missing_count": 260,
+      "missing_pct": 4.99
+    },
+    "quantity": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    "payment_method": {
+      "missing_count": 0,
+      "missing_pct": 0.0
+    }
+  },
+  "uniqueness": {
+    "exact_duplicate_rows": 150,
+    "duplicate_order_ids": 210,
+    "total_rows": 5210
+  },
+  "validity": {
+    "invalid_email_format": 367,
+    "order_date_nonstandard_format_count": 785,
+    "ship_date_before_order_date": 314,
+    "price_negative_or_extreme_outlier": 41
+  },
+  "consistency": {
+    "city_distinct_raw_values": 18,
+    "city_distinct_after_normalizing_case_whitespace": 9,
+    "payment_method_distinct_raw_values": 7
+  },
+  "overall_quality_score_pct": 93.96
+}
