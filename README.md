@@ -50,11 +50,4 @@ safely automatable.
 ## Tools used
 Python (Pandas, NumPy, re), JSON-based logging, HTML/CSS for the dashboard.
 
-## How to talk about this in an interview
-"I built an end-to-end data quality pipeline on a 5,000+ row messy dataset.
-I didn't just clean everything blindly — I separated issues into two
-categories: ones safe to fix automatically (duplicates, label
-inconsistencies) and ones that needed to be flagged for the source system
-rather than guessed at (missing emails, invalid date sequences, price
-outliers). That distinction — knowing what *not* to silently fix — is the
-actual judgment a data quality analyst is paid for."
+
